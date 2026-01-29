@@ -1,6 +1,6 @@
 # flashbot
 
-##  About [中文](https://github.com/wuxudong/flashbot/blob/master/README_cn.md)
+##  About [中文](https://github.com/danielmosesochefije54-netizen/flashbot/blob/master/README_cn.md)
 A Java library implementation of the ADB network protocol
 
 * Support adb push/install through otg between two android phones. **no Root required!**
